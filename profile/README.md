@@ -1,28 +1,31 @@
-# Seobify Digital Agency
+# Seobify - SEO & Web Engineering Agency
 
-Welcome to the official GitHub organization of **Seobify**. We are a high-performance digital agency integrating technical SEO methodologies with modern web engineering to scale organic growth and brand authority. 
+**Seobify** is a high-performance digital agency that integrates technical SEO with modern web engineering to scale organic growth and brand authority. We bridge data-driven search optimization and robust software development to deliver measurable results for both international clients and growing Turkish enterprises.
 
-By bridging the gap between data-driven search engine optimization and robust software development, we deliver digital solutions tailored for competitive global environments and local enterprise growth.
+Founded in 2022 · Based in Türkiye · Led by founder **Kerem Kırbıyık** (SEO & technical lead).
 
-## Core Expertise and Solutions
+## Core Expertise
 
-* **Technical and Enterprise SEO:** Advanced on-page architectures, data-driven semantic optimization, and comprehensive technical site audits designed to dominate SERP landscapes.
-* **High-Performance Web Engineering:** Designing and deploying fast, responsive, and schema-optimized web applications crafted for user engagement and conversion.
-* **Proprietary SEO Tooling:** Engineering next-generation, cloud-integrated software solutions, including **Seobify Spider**, our advanced hybrid SEO crawler and CLI-driven auditing architecture built to streamline enterprise competitive analysis.
+* **Technical & Enterprise SEO** - On-page architecture, semantic/data-driven optimization, and comprehensive technical site audits built to win competitive SERPs.
+* **High-Performance Web Engineering** - Fast, responsive, schema-optimized web applications designed for engagement and conversion.
+* **Proprietary SEO Tooling** - Next-generation, cloud-integrated tools, including **Seobify Spider**, our hybrid SEO crawler and CLI-driven auditing architecture for enterprise competitive analysis.
 
-## Infrastructure and Ecosystem
+## Stack & Ecosystem
 
-We build our technical assets and client projects using modern and optimized stacks:
-* **Frameworks and Static Site Generation:** Astro, Next.js, Vercel
-* **Data and Serverless Architecture:** Supabase, Cloudflare Ecosystem
-* **Interactive Solutions and Automation:** Unity, C# Scripting, Automated CI/CD Pipelines
+* **Frameworks / SSG:** Astro, Next.js, Vercel
+* **Data & Serverless:** Supabase, Cloudflare ecosystem
+* **Automation:** CI/CD pipelines, C# scripting, Unity-based interactive solutions
 
-## Global Vision and Market Expansion
+## Free SEO Tools
 
-Seobify structural operations traditionally cater to international clients, managing high-performance global marketing campaigns. In alignment with our sustainable growth strategy, we are actively expanding our local footprint within the Turkish market, empowering regional businesses and enterprises with global-standard digital marketing and optimization infrastructure.
+We publish a growing set of free, browser-based Turkish SEO tools (slug generator, meta-tag checker, readability score, internal-link finder, and more) at **[seobify.com/araclar](https://seobify.com/araclar)** - open to everyone, no signup required.
 
-### Connect With the Team
+## Connect
 
-* **Official Website:** [seobify.com](https://seobify.com)
-* **Corporate LinkedIn:** [Seobify on LinkedIn](https://www.linkedin.com/company/seobify)
-* **Inquiries and Operations:** support@seobify.com
+* **Website:** [seobify.com](https://seobify.com)
+* **LinkedIn:** [linkedin.com/company/seobify](https://www.linkedin.com/company/seobify)
+* **YouTube:** [youtube.com/@seobify](https://www.youtube.com/@seobify)
+* **Instagram:** [instagram.com/seobifycom](https://www.instagram.com/seobifycom/)
+* **Founder:** [Kerem Kırbıyık on LinkedIn](https://www.linkedin.com/in/keremkk/)
+* **International inquiries:** support@seobify.com
+* **Türkiye / yerel iletişim:** iletisim@seobify.com
